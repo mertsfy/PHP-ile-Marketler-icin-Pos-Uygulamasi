@@ -1,0 +1,13 @@
+.nav-links-item {
+    padding: 8px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 0.8em;
+}
+
+.nav-links-item:hover {
+    background-color: var(--primary);
+    color: #fff;
+    cursor: pointer;
+}
